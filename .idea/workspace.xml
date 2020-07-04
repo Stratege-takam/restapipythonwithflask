@@ -1,14 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ee2641c-f084-4a29-8150-0dbd780127ac" name="Default Changelist" comment="" />
+    <list default="true" id="3ee2641c-f084-4a29-8150-0dbd780127ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flaskdbexample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/authgradeContoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/homeController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/productContoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/professorContoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/studentContoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskdbexample.wsgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/config_access_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/config_settings_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_authgradeContoller_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_homeController_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_productContoller_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_professorContoller_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_studentContoller_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/migrations_env_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_authjwt_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_models_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_product_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_professor_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_student_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/models_user_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_authgradeService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_iauthgradeService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_iproductService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_iuserService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_productService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_professorService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_studentService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/services_userService_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/tests___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/tests_base_model_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/13267a3c364a_ajout_d_une_nouvelle_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/266afbf55b0c_ajout_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/51b9b556ce4f_init_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/62fbdcd93981_ajout_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/6de43b978e9c_modifier_le_format_de_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/863649e972c3_ajout_de_la_table_auth_suppression_de_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/90f0de122058_add_createat_and_updaeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/ac7563cde074_suppression_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/ae9540b2005d_ajout_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/b04481642c8e_ajout_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/d1c7e2101921_update_column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/e6fca75f72eb_ajout_de_la_table_pour_jwt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/feb9fb336cc8_suppression_du_hiredate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/authjwt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/professor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/authgradeService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/iauthgradeService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/iproductService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/iuserService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/productService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/professorService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/studentService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/userService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/base_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/configTest/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/controllersTest/test_studentController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/database/flasktest_db.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/modelsTest/test_exemple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/modelsTest/test_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/servicesTest/test_studentService.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="305" />
+    <option name="myElementSize" value="187" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -36,7 +133,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e5JvOZmtLPtedv46sHmLiX3zOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -179,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593605750185</updated>
       <workItem from="1593605754355" duration="12309000" />
-      <workItem from="1593639290687" duration="77900000" />
+      <workItem from="1593639290687" duration="78151000" />
     </task>
     <servers />
   </component>
