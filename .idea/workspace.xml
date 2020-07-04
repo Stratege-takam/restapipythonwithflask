@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ee2641c-f084-4a29-8150-0dbd780127ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="305" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5JvOZmtLPtedv46sHmLiX3zOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/tests/models.test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/manage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_studentController.TestStudentController">
+    <configuration name="flaskdbexample" type="PythonConfigurationType" factoryName="Python">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_studentController.TestStudentController" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_studentController.TestStudentController&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_studentController.TestStudentController.test_api_can_get_student_by_id" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_studentController.TestStudentController.test_api_can_get_student_by_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_studentController.TestStudentController.test_student_can_be_edited" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_studentController.TestStudentController.test_student_can_be_edited&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_studentController.TestStudentController.test_student_creation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_studentController.TestStudentController.test_student_creation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_studentController.TestStudentController.test_student_deletion" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_studentController.TestStudentController.test_student_deletion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController" />
+        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_deletion" />
+        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_can_be_edited" />
+        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_api_can_get_student_by_id" />
+        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_creation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ee2641c-f084-4a29-8150-0dbd780127ac" name="Default Changelist" comment="" />
+      <created>1593605750185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593605750185</updated>
+      <workItem from="1593605754355" duration="12309000" />
+      <workItem from="1593639290687" duration="77900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593880007731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1593880007731" />
+    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593636473368">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1593636473368" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593817635842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1593817635842" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1593884212606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593884212606" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1593884212604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593884212604" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1593884212603">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593884212603" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1593884212605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593884212605" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1593639291684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593639291684" />
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593782857894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1593782857894" />
+    <state x="370" y="185" width="700" height="530" key="recent.locations.popup" timestamp="1593707913905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="185" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1593707913905" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_student_creation.coverage" NAME="Unittests for test_studentService.TestStudentController.test_student_creation Coverage Results" MODIFIED="1593882472870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController_test_student_creation.coverage" NAME="Unittests for test_studentController.TestStudentController.test_student_creation Coverage Results" MODIFIED="1593883339618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$access.coverage" NAME="access Coverage Results" MODIFIED="1593784602955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController.coverage" NAME="Unittests for test_studentService.TestStudentController Coverage Results" MODIFIED="1593817966642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController.coverage" NAME="Unittests for test_studentController.TestStudentController Coverage Results" MODIFIED="1593884212587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_api_can_get_student_by_id.coverage" NAME="Unittests for test_studentService.TestStudentController.test_api_can_get_student_by_id Coverage Results" MODIFIED="1593882325832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$__int__.coverage" NAME="__int__ Coverage Results" MODIFIED="1593613602389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController_test_api_can_get_student_by_id.coverage" NAME="Unittests for test_studentController.TestStudentController.test_api_can_get_student_by_id Coverage Results" MODIFIED="1593883445307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$userService.coverage" NAME="userService Coverage Results" MODIFIED="1593817369889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/services" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1593880067582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$flaskdbexample.coverage" NAME="flaskdbexample Coverage Results" MODIFIED="1593611356848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController_test_student_can_be_edited.coverage" NAME="Unittests for test_studentController.TestStudentController.test_student_can_be_edited Coverage Results" MODIFIED="1593883734023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController_test_student_deletion.coverage" NAME="Unittests for test_studentController.TestStudentController.test_student_deletion Coverage Results" MODIFIED="1593884199949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Flask__config_settings_py_.coverage" NAME="Flask (config/settings.py) Coverage Results" MODIFIED="1593607321179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentController_TestStudentController_test_api_can_get_all_students.coverage" NAME="Unittests for test_studentController.TestStudentController.test_api_can_get_all_students Coverage Results" MODIFIED="1593883261700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in_test_studentController_py.coverage" NAME="Unittests in test_studentController.py Coverage Results" MODIFIED="1593880448136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in___init___py.coverage" NAME="Unittests in __init__.py Coverage Results" MODIFIED="1593761546912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_api_can_get_all_students.coverage" NAME="Unittests for test_studentService.TestStudentController.test_api_can_get_all_students Coverage Results" MODIFIED="1593882318310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1593815941351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in_test_studentService_py.coverage" NAME="Unittests in test_studentService.py Coverage Results" MODIFIED="1593804517202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_student_can_be_edited.coverage" NAME="Unittests for test_studentService.TestStudentController.test_student_can_be_edited Coverage Results" MODIFIED="1593805758451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$productContoller.coverage" NAME="productContoller Coverage Results" MODIFIED="1593613390798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$authgradeContoller.coverage" NAME="authgradeContoller Coverage Results" MODIFIED="1593725180194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_student_deletion.coverage" NAME="Unittests for test_studentService.TestStudentController.test_student_deletion Coverage Results" MODIFIED="1593805822799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
+  </component>
+</project>
