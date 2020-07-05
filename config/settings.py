@@ -25,6 +25,10 @@
 #https://geekflare.com/securing-flask-api-with-jwt/
 #https://realpython.com/token-based-authentication-with-flask/
 
+
+# send mail
+#https://pythonbasics.org/flask-mail/
+
 from flask import Flask, request, jsonify, make_response, Blueprint
 from flask_jwt_extended import JWTManager
 from flask_sqlalchemy import SQLAlchemy
@@ -37,6 +41,7 @@ from functools import wraps
 #from flask_restful import Resource, Api
 import json
 from pathlib import Path
+from flask_mail import Mail, Message
 
 #app = Flask(__name__)
 #app.config['SQLALCHEMY_DATABASE_URI']='mysql+pymysql://root:root@127.0.0.1:8889/flaskdb'
@@ -65,6 +70,7 @@ class  Init():
         self.app = None
         self.jwt = None
         self.api = None
+        self.mail = None
 
     def create_app(self):
         data = self.read_json_param()
@@ -75,6 +81,7 @@ class  Init():
         self.app.config.from_object(app_config[conf_name])
         db.init_app(self.app)
         self.api = Api(app=self.app, version='0.1', title='Books Api', description='', validate=True)
+        self.mail = Mail(self.app)
         #return app,jwt
 
     def change_env(self, new_env):
@@ -106,6 +113,12 @@ class Config(object):
     SECRET_KEY = app_param["secret"]
     SQLALCHEMY_DATABASE_URI = app_param["production"]
     SQLALCHEMY_TRACK_MODIFICATIONS = True
+    MAIL_SERVER = app_param["MAIL_SERVER"]
+    MAIL_PORT = app_param["MAIL_PORT"]
+    MAIL_USERNAME = app_param["MAIL_USERNAME"]
+    MAIL_PASSWORD = app_param["MAIL_PASSWORD"]
+    MAIL_USE_TLS = False
+    MAIL_USE_SSL = False
 
 
 class DevelopmentConfig(Config):

@@ -2,102 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee2641c-f084-4a29-8150-0dbd780127ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/flaskdbexample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/authgradeContoller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/homeController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/productContoller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/professorContoller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/studentContoller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskdbexample.wsgi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/config_access_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/config_settings_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_authgradeContoller_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_homeController_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_productContoller_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_professorContoller_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/controllers_studentContoller_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.isonscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/migrations_env_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_authjwt_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_models_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_product_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_professor_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_student_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/models_user_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_authgradeService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_iauthgradeService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_iproductService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_iuserService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_productService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_professorService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_studentService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/services_userService_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/tests___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcov/tests_base_model_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/13267a3c364a_ajout_d_une_nouvelle_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/266afbf55b0c_ajout_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/51b9b556ce4f_init_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/62fbdcd93981_ajout_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/6de43b978e9c_modifier_le_format_de_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/863649e972c3_ajout_de_la_table_auth_suppression_de_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/90f0de122058_add_createat_and_updaeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/ac7563cde074_suppression_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/ae9540b2005d_ajout_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/b04481642c8e_ajout_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/d1c7e2101921_update_column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/e6fca75f72eb_ajout_de_la_table_pour_jwt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/feb9fb336cc8_suppression_du_hiredate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/authjwt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/professor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/authgradeService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/iauthgradeService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/iproductService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/iuserService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/productService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/professorService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/studentService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/userService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/base_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/configTest/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/controllersTest/test_studentController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/database/flasktest_db.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/modelsTest/test_exemple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/modelsTest/test_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/servicesTest/test_studentService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/maillingService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/homeController.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/homeController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +71,29 @@
       <recent name="$PROJECT_DIR$/services" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_studentController.TestStudentController">
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskdbexample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="flaskdbexample" type="PythonConfigurationType" factoryName="Python">
       <module name="flaskdbexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,21 +161,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_studentController.TestStudentController.test_student_creation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="flaskdbexample" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/controllersTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_studentController.TestStudentController.test_student_creation&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for test_studentController.TestStudentController.test_student_deletion" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="flaskdbexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController" />
         <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_deletion" />
         <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_can_be_edited" />
         <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_api_can_get_student_by_id" />
-        <item itemvalue="Python tests.Unittests for test_studentController.TestStudentController.test_student_creation" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593605750185</updated>
       <workItem from="1593605754355" duration="12309000" />
-      <workItem from="1593639290687" duration="78151000" />
+      <workItem from="1593639290687" duration="84565000" />
     </task>
     <servers />
   </component>
@@ -300,22 +217,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1593817635842" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1593884212606">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1593911521139">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593884212606" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1593884212604">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593911521139" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1593911521135">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593884212604" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1593884212603">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593911521134" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1593911521133">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593884212603" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1593884212605">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593911521133" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1593911521136">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593884212605" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593911521136" />
     <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1593639291684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -348,7 +265,7 @@
     <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in_test_studentController_py.coverage" NAME="Unittests in test_studentController.py Coverage Results" MODIFIED="1593880448136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/controllersTest" />
     <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in___init___py.coverage" NAME="Unittests in __init__.py Coverage Results" MODIFIED="1593761546912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_api_can_get_all_students.coverage" NAME="Unittests for test_studentService.TestStudentController.test_api_can_get_all_students Coverage Results" MODIFIED="1593882318310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
-    <SUITE FILE_PATH="coverage/flaskdbexample$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1593815941351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/flaskdbexample$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1593911521117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_in_test_studentService_py.coverage" NAME="Unittests in test_studentService.py Coverage Results" MODIFIED="1593804517202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
     <SUITE FILE_PATH="coverage/flaskdbexample$Unittests_for_test_studentService_TestStudentController_test_student_can_be_edited.coverage" NAME="Unittests for test_studentService.TestStudentController.test_student_can_be_edited Coverage Results" MODIFIED="1593805758451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/servicesTest" />
     <SUITE FILE_PATH="coverage/flaskdbexample$productContoller.coverage" NAME="productContoller Coverage Results" MODIFIED="1593613390798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
