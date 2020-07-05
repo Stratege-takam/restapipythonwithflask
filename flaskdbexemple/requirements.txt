@@ -1,8 +1,10 @@
 alembic==1.4.2
+aniso8601==8.0.0
 attrs==19.3.0
 blinker==1.4
 click==7.1.2
 coverage==5.1
+Cython==0.29.20
 DateTime==4.3
 decorator==4.4.2
 fields==5.0.0
@@ -52,3 +54,4 @@ uuid==1.30
 Werkzeug==1.0.1
 zipp==3.1.0
 zope.interface==5.1.0
+pymssql==2.1.4

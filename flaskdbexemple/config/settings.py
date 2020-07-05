@@ -26,6 +26,8 @@
 #https://realpython.com/token-based-authentication-with-flask/
 #https://docs.nose2.io/en/latest/
 
+# "mssql+pymssql://<username>:<password>@<servername>/<dbname>"
+
 
 # send mail
 #https://pythonbasics.org/flask-mail/
