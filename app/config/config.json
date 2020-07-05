@@ -1,0 +1,8 @@
+{"development": "mysql+pymysql://root:root@127.0.0.1:8889/flaskdb",
+  "production": "mysql+pymysql://root:root@127.0.0.1:8889/flaskdb",
+  "testing": "sqlite://///Users/stratege/Desktop/python/flaskdbexample/tests/database/flasktest_db.db",
+  "secret": "apitest@stratege-takam", "MAIL_SERVER": "mail.datnekapi.be",
+  "MAIL_PORT": 25, "MAIL_USERNAME": "info@datnekapi.be",
+  "MAIL_NAME": "Datnek info",
+  "MAIL_PASSWORD": "****",
+  "env": "development"}

@@ -1,15 +1,15 @@
 import unittest
 
-from services.studentService import StudentService
+from app.services.studentService import StudentService
 from tests.base_model import BaseModel
-from models.student import Student
+from app.models.student import Student
 
 
-class TestStudentController(BaseModel):
+class TestStudentService(BaseModel):
     """This class represents the student test case"""
     def setUp(self):
         super().setUp()
-        self.student = {"username":"stratege","password":"azerty","fullname":"Danick TAKAM", "register":"213346","slug": 123}
+        self.student = {"username":"stratege","password":"azerty","fullname":"Danick TAKAM", "register":"213346","slug": "123"}
         self.studentService = StudentService()
         #print("---------------hello world ------------------")
 

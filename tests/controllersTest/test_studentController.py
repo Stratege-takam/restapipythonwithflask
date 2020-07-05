@@ -1,8 +1,8 @@
 import unittest
 
 from tests.base_model import *
-from config.settings import  json
-from models.student import Student
+from app.config.settings import  json
+from app.models.student import Student
 
 
 class TestStudentController(BaseModel):
@@ -13,13 +13,13 @@ class TestStudentController(BaseModel):
         self.student = {"username":"stratege",
                         "password":"azerty",
                         "fullname":"Danick TAKAM",
-                        "slug": 123,
+                        "slug": "123",
                         "register":"213346"}
         self.header = {"Authorization": f"Bearer {self.auth}"}
 
     def test_student_creation(self):
         """Test API can create a student (POST request)"""
-        res = init_app.app.test_client().post('/students', data=self.student, headers= self.header)
+        res = init_app.app.test_client().post('/app/students', data=self.student, headers= self.header)
         self.assertEqual(res.status_code, 200)
         #print(res.data)
         result_in_json = json.loads(res.data.decode('utf-8').replace("'", "\""))

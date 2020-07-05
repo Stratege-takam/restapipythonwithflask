@@ -1,4 +1,4 @@
-from config.settings import  init_app
+from app.config.settings import  init_app
 
 
 init_app.change_env("development")
@@ -6,7 +6,7 @@ init_app.change_env("development")
 init_app.app.app_context().push()
 
 
-from controllers import homeController , studentContoller, professorContoller, productContoller, authgradeContoller
+from app.controllers import homeController , studentContoller, professorContoller, productContoller, authgradeContoller
 
 
 

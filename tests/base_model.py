@@ -1,15 +1,15 @@
 import unittest
 
-from config.settings import  db, init_app
+from app.config.settings import  db, init_app
 
 init_app.change_env("testing")
 init_app.app.app_context().push()
 
 #print(f"{envs['test']} {app_param['env']}")
 
-from models.models import *
+from app.models.models import *
 
-from controllers import homeController , studentContoller, professorContoller, productContoller, authgradeContoller
+from app.controllers import homeController , studentContoller, professorContoller, productContoller, authgradeContoller
 
 
 class BaseModel(unittest.TestCase):
@@ -37,4 +37,4 @@ class BaseModel(unittest.TestCase):
             db.session.remove()
             db.drop_all()
         #print("---------------end main ------------------")
-        #init_app.change_env("production")
+        init_app.change_env("development")
