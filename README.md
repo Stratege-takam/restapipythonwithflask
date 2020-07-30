@@ -82,6 +82,8 @@ Vous pouvez aussi tester l'application en utilisant nose2
 - Utiliser la commande  **#nose2 -v** pour plus de détail
 
 #Couverture des tests
+- la manière la plus simple est d'utiliser nose2 via la commande 
+**nose2 --with-coverage**
 - Pour un fichier spécifique  la commande
 **coverage run tests/modelsTest/test_student.py**
 - Pour tout le projet **coverage report -m */*.py**
